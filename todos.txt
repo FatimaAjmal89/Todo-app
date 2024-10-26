@@ -1,6 +1,4 @@
-opt
-zayn
-snow
+("('opt\\n',)zayn\n",)snow
 kat
 fat
 gayt
@@ -10,3 +8,5 @@ burger
 fanta
 rat
 mar
+hi
+pip
